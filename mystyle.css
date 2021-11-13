@@ -1,0 +1,67 @@
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+
+/*--------------------------------------------NAVBAR-------------------------------------------*/
+
+#navbar {
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+
+/*--------------------------------------------INICIO-------------------------------------------*/
+
+.bg-cor1 {
+    background-color: #FFEC89
+}
+
+#Titulo1 {
+    font-size: 2.3rem;
+    font-family: 'IBM Plex Serif', serif;
+    line-height: 125%;
+    text-align: center;
+    letter-spacing: -1.2px;
+    color: #153243;
+}
+
+#subtitulo1 {
+    font-size: 1rem;
+    line-height: 150%;
+    text-align: center;
+    letter-spacing: -0.3px;
+    color: #585757;
+}
+
+
+/*--------------------------------------------INCASH-------------------------------------------*/
+
+.bg-cor2 {
+    background-color: #DBDBDB;
+    height: 523px;
+}
+
+#espaco2 {
+    height: 20%;
+}
+
+#textoSobre {
+    font-weight: bold;
+    font-style: italic;
+    color: #153243;
+}
+
+.numeros {
+    font-size: 2.7rem;
+    font-weight: bold;
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    text-align: start;
+}
+
+.dados p {
+    color: #494949;
+    font-size: .9rem;
+    text-align: start;
+}
